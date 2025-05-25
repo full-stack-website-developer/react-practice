@@ -1,0 +1,29 @@
+.name-wrapper {
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Limit to 2 lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+
+.name-wrapper .blurred-text {
+  display: inline-block;
+  position: relative;
+}
+
+.name-wrapper .blurred-text::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: 20px; /* Adjust as per your design */
+  width: 100%;
+  background: linear-gradient(to top, white, transparent); /* Blur effect at the end of the text */
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+
+.name-wrapper:hover .blurred-text::after {
+  opacity: 0; /* Remove the blur effect on hover */
+}/*# sourceMappingURL=Name.module.css.map */

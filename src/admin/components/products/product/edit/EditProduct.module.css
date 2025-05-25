@@ -1,0 +1,63 @@
+.form {
+  background-color: antiquewhite;
+  padding: 20px;
+  gap: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.aside {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.aside .publish-btn-group {
+  display: block;
+}
+.aside .publish-btn-group .publish-btn {
+  display: flex;
+}
+.aside .publish-btn-group .publish-btn button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.image-preview {
+  width: 100px;
+  height: 70px;
+  border-radius: 10px;
+  -o-object-fit: cover;
+  object-fit: cover;
+  display: block;
+  margin-top: 10px;
+}
+
+.icon {
+  text-align: center;
+  position: relative;
+  top: 34px;
+  color: red;
+}
+
+.preview-container {
+  width: 32%;
+  text-align: end;
+}
+
+.additional-text {
+  font-size: 12px;
+  line-height: 0%;
+}
+
+.main-container {
+  height: 93.1vh;
+  overflow: auto;
+}/*# sourceMappingURL=EditProduct.module.css.map */

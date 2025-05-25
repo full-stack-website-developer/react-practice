@@ -1,0 +1,28 @@
+{
+    "text": {
+        "title": "Neues Produkt Hinzufügen",
+        "name": "Name",
+        "permalink": "Permalink",
+        "tDescription": "Beschreibung",
+        "tContent": "Inhalt",
+        "images": "Bilder",
+        "specification_table": "Spezifikationstabelle",
+        "empty_text": "Wählen Sie die Spezifikationstabelle, die in diesem Produkt angezeigt werden soll",
+        "overview": "Übersicht",
+        "sku": "SKU",
+        "price": "Preis",
+        "discount": "Rabatt",
+        "stock_status": "Lagerstatus",
+        "attributes": "Attribute",
+        "publish": "Veröffentlichen",
+        "status": "Status",
+        "store": "Geschäft",
+        "brand": "Marke",
+        "label": "Etikett",
+        "min_order_quantity": "Mindestbestellmenge",
+        "max_order_quantity": "Maximale Bestellmenge",
+        "tags": "Stichwörter",
+        "pl_name": "Produktname eingeben",
+        "pl_start_writing": "Hier schreiben..."
+    }
+}

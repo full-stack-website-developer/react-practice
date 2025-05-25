@@ -1,0 +1,12 @@
+.images-conatiner {
+  gap: 10px;
+  overflow: auto;
+  width: 5vw;
+  height: 60vh;
+}
+.images-conatiner::-webkit-scrollbar {
+  display: none;
+}
+.images-conatiner .img img {
+  width: 100%;
+}/*# sourceMappingURL=AdditionalImages.css.map */

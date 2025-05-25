@@ -1,0 +1,15 @@
+.review-group {
+  display: flex;
+  gap: 8px;
+}
+.review-group .star-icons {
+  display: flex;
+  align-items: center;
+}
+.review-group .star-icons .star-icon {
+  font-size: 12px;
+  color: #2e5c8a;
+}
+.review-group .review-text {
+  font-size: 12px;
+}/*# sourceMappingURL=Rating.module.css.map */

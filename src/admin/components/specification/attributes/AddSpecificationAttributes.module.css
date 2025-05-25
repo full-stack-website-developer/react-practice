@@ -1,0 +1,22 @@
+.add-container {
+    border: 1px solid rgb(212, 207, 207);
+    width: 40%;
+    margin-left: 14%;
+    padding: 10px;
+}
+
+.values-input-conatiner div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+
+.icon-container {
+    display: flex;
+    align-items: center;
+}
+.icon {
+    cursor: pointer;
+}

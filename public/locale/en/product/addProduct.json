@@ -1,0 +1,28 @@
+{
+    "text": {
+        "title": "Add New Product",
+        "name": "Name",
+        "permalink": "Permalink",
+        "tDescription": "Description",
+        "tContent": "Content",
+        "images": "Images",
+        "specification_table": "Specification Table",
+        "empty_text": "Select the specification table to display in this product",
+        "overview": "Overview",
+        "sku": "SKU",
+        "price": "Price",
+        "discount": "Discount",
+        "stock_status": "Stock Status",
+        "attributes": "Attributes",
+        "publish": "Publish",
+        "status": "Status",
+        "store": "Store",
+        "brand": "Brand",
+        "label": "Label",
+        "min_order_quantity": "Minimum Order Quantity",
+        "max_order_quantity": "Maximum Order Quantity",
+        "tags": "Tags",
+        "pl_name": "Enter Product name",
+        "pl_start_writing": "Start Writing here..."        
+    }
+}

@@ -1,0 +1,11 @@
+h2 {
+  text-align: center;
+  margin: 20px;
+}
+
+.product-container {
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+  gap: 10px;
+}/*# sourceMappingURL=Store.module.css.map */

@@ -1,0 +1,11 @@
+h2 {
+  text-align: center;
+  margin: 20px;
+}
+
+.related-products {
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+  gap: 10px;
+}/*# sourceMappingURL=RelatedProducts.module.css.map */

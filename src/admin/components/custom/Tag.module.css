@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.section {
+  background-color: antiquewhite;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.p {
+  font-size: 14px;
+  color: rgb(94, 92, 92);
+  margin-bottom: 0;
+}/*# sourceMappingURL=Tag.module.css.map */

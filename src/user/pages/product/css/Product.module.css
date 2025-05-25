@@ -1,0 +1,23 @@
+.main-container {
+  gap: 30px;
+}
+.main-container .images-container {
+  gap: 20px;
+  display: flex;
+  height: 60vh;
+}
+.main-container .product-details {
+  width: 100%;
+}
+
+.specification-container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.related-products-container {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+}/*# sourceMappingURL=Product.module.css.map */

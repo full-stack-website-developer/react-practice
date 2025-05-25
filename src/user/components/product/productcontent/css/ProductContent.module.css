@@ -1,0 +1,19 @@
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.details .brand-group {
+  display: flex;
+  gap: 16px;
+  font-size: 10px;
+  align-items: center;
+}
+.details .price-group {
+  display: flex;
+  gap: 10px;
+}
+.details .availability-text {
+  font-size: 12px;
+  color: green;
+}/*# sourceMappingURL=ProductContent.module.css.map */

@@ -1,0 +1,28 @@
+.add-container {
+    border: 1px solid rgb(212, 207, 207);
+    width: 40%;
+    margin-left: 14%;
+    padding: 10px;
+}
+
+.image-preview {
+    width: 100px;
+    height: 70px;
+    border-radius: 10px;
+    -o-object-fit: cover;
+       object-fit: cover; 
+    display: block; 
+    margin-top: 10px; 
+}
+
+.icon {
+    text-align: center;
+    position: relative;
+    top: 38px;
+    color: red;
+}
+
+.preview-container {
+    width: 12%;
+    text-align: end;
+}

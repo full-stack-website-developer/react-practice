@@ -1,0 +1,22 @@
+.discount {
+    display: flex;
+    gap: 10px;
+
+    .amount {
+        color: #99a2a5;
+        font-size: 14px;
+        align-self: center;
+    }
+
+    .percent {
+        background-color: red;
+        padding: 0px 6px;
+        border-radius: 4px;
+
+        span {
+            font-size: 10px;
+            font-weight: bolder;
+            color: white;
+        }
+    }
+}

@@ -1,0 +1,9 @@
+.categories-container {
+  font-size: 12px;
+}
+.categories-container .label {
+  font-weight: bold;
+}
+.categories-container .categories {
+  text-transform: capitalize;
+}/*# sourceMappingURL=Categories.module.css.map */

@@ -1,0 +1,16 @@
+.add-container {
+    border: 1px solid rgb(212, 207, 207);
+    width: 40%;
+    margin-left: 14%;
+    padding: 10px;
+}
+
+input.input-error,
+select.input-error {
+    border-color: red;
+}
+
+.error {
+    color: red;
+    font-size: 10px;
+}

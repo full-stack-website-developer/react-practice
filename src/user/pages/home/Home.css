@@ -1,0 +1,14 @@
+.conatiner {
+  height: 100vh;
+  cursor: pointer;
+}
+.conatiner:hover {
+  background-color: rgb(214, 204, 191);
+}
+.conatiner:hover h1 {
+  color: red;
+}
+.conatiner h1 {
+  padding: 20px;
+  margin: 0;
+}/*# sourceMappingURL=Home.css.map */

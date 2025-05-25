@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    margin: 20px;
+}
+
+.list-button {
+    min-width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list-button div{
+    gap: 10px !important;
+    display: flex;
+
+}
+
+.list-container {
+    margin-left: 14%;
+    margin-top: 10px;
+    margin-right: 0.8%;
+}
+
+.sub-categories a {
+    min-width: 20%;
+    margin-left: 20px;
+    margin-top: 2px;
+    gap: 4px;
+}
+
+.sub-categories a .icon,
+.list-button div .icon{
+    align-self: center;
+}
+
+.sub-categories li a {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sub-categories li a div{
+    gap: 6px;
+    display: flex;
+}
+
+.icon-arrow {
+    font-size: 14px !important;
+}

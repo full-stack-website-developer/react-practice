@@ -1,0 +1,19 @@
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.images .remove-icon-container .remove-icon {
+  vertical-align: top;
+  position: relative;
+  left: -25px;
+  top: 2px;
+}
+.images .image {
+  width: 15%;
+  display: flex;
+}
+.images .image img {
+  width: 100%;
+  border-radius: 8px;
+}/*# sourceMappingURL=ImagesPreview.module.css.map */

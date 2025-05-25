@@ -1,0 +1,8 @@
+.main-image {
+  width: 60vh;
+}
+.main-image img {
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+}/*# sourceMappingURL=MainImage.module.css.map */

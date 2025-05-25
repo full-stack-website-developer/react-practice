@@ -1,0 +1,9 @@
+.spec-table-conatiner {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.spec-table-conatiner .spec-table-head {
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=SpecificationTable.module.css.map */

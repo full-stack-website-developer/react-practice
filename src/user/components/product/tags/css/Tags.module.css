@@ -1,0 +1,15 @@
+.tags-container {
+  display: flex;
+  gap: 10px;
+  font-size: 12px;
+}
+.tags-container .label {
+  font-weight: bold;
+}
+.tags-container .tags {
+  display: flex;
+  gap: 6px;
+}
+.tags-container .tags .tag {
+  cursor: pointer;
+}/*# sourceMappingURL=Tags.module.css.map */

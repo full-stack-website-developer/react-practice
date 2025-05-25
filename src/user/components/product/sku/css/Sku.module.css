@@ -1,0 +1,8 @@
+.sku-container {
+  display: flex;
+  gap: 10px;
+  font-size: 10px;
+}
+.sku-container .label {
+  font-weight: bold;
+}/*# sourceMappingURL=Sku.module.css.map */

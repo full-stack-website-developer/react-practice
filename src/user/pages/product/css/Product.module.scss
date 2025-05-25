@@ -1,0 +1,26 @@
+.main-container {
+    gap: 30px;
+    
+    .images-container {
+        gap: 20px;
+        display: flex;
+        height: 60vh;
+    }
+
+    .product-details {
+        width: 100%;
+    }
+}
+
+.specification-container {
+    margin-top: 10px;
+}
+
+.related-products-container {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.reviews-container{
+}

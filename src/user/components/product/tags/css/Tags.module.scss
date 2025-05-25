@@ -1,0 +1,18 @@
+.tags-container {
+    display: flex;
+    gap: 10px;
+    font-size: 12px;
+
+    .label {
+        font-weight: bold;
+    }
+
+    .tags {
+        display: flex;
+        gap: 6px;
+
+        .tag {
+            cursor: pointer;
+        }
+    }
+}

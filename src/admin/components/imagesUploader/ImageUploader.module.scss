@@ -1,0 +1,23 @@
+
+.upload-label {
+    cursor: pointer;
+
+    .upload-box {
+        background-color: #F6F8FB;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    
+        .paragraphs {
+            font-size: 16px;
+            font-weight: 400;
+        }
+    }
+}
+
+.upload-input {
+    display: none;   
+}

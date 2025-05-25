@@ -1,0 +1,27 @@
+.attribute-container {
+    .attribute-head {
+        display: flex;
+        justify-content: space-between;
+
+        button {
+            border: 1px solid #a29999;
+            padding: 4px 30px;
+            border-radius: 8px;
+        }
+    }
+}
+
+.attribite-remove-icon-conatiner {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+    .icon-remove{
+        color: white;
+        background-color: red;
+        border-radius: 4px;
+        padding: 0px 4px 2px 4px;
+    
+    }
+}
+

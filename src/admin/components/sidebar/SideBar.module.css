@@ -1,0 +1,32 @@
+.side-bar-container {
+    height: 89.8vh;
+    float: left;
+    width: 250px;
+    margin-right: 10px;
+}
+
+li {
+    font-size: 14px;
+}
+
+li a{
+    padding-left: 0px !important;
+    gap: 10px;
+    display: flex !important;
+    align-items: center;
+}
+
+.sub-category {
+    padding-left: 10px;
+}
+
+.sub-category li a{
+    font-size: 13px ;
+    display: flex;
+    gap: 6px;
+}
+
+.sub-category li  .icon {
+    font-size: 8px !important;
+    align-self: center;
+}

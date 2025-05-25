@@ -1,0 +1,37 @@
+.name-input-conatiner {
+    display: flex;
+    gap: 10px;
+    
+}
+
+label {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.values-conatiner {
+    height: 60vh;
+    overflow-y: auto;
+}
+
+.values-input-conatiner {
+    height: 60vh;
+    gap: 10px;
+    flex-direction: column;
+    display: flex;
+}
+
+table {
+    width: auto !important;
+    border: 2px solid green !important;
+}
+
+.icon {
+    margin-top: 6px;
+    color: green;
+    cursor: pointer;
+}
+
+table button {
+    min-width: 130px !important;
+}

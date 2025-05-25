@@ -1,0 +1,8 @@
+.add-category-conatiner {
+  width: 78%;
+  margin-left: 18%;
+  height: 53vh;
+}
+.add-category-conatiner .parent-category-name {
+  text-transform: capitalize;
+}/*# sourceMappingURL=AddCategory.module.css.map */

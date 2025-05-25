@@ -1,0 +1,19 @@
+.discount {
+  display: flex;
+  gap: 10px;
+}
+.discount .amount {
+  color: #99a2a5;
+  font-size: 14px;
+  align-self: center;
+}
+.discount .percent {
+  background-color: red;
+  padding: 0px 6px;
+  border-radius: 4px;
+}
+.discount .percent span {
+  font-size: 10px;
+  font-weight: bolder;
+  color: white;
+}/*# sourceMappingURL=Discount.module.css.map */

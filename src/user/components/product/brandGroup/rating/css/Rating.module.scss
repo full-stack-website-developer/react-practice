@@ -1,0 +1,21 @@
+.review-group {
+
+    div {
+        display: flex;
+        gap: 8px;
+    }
+
+    .star-icons {
+        display: flex;
+        align-items: center;
+        
+        .star-icon {
+            font-size: 12px;
+            color: #2e5c8a;
+        }
+    }
+
+    .review-text {
+        font-size: 12px;
+    }
+}

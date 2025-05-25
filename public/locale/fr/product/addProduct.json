@@ -1,0 +1,28 @@
+{
+    "text": {
+        "title": "Ajouter un Nouveau Produit",
+        "name": "Nom",
+        "permalink": "Lien Permanent",
+        "tDescription": "Description",
+        "tContent": "Contenu",
+        "images": "Images",
+        "specification_table": "Tableau de Spécifications",
+        "empty_text": "Sélectionnez le tableau de spécifications à afficher pour ce produit",
+        "overview": "Aperçu",
+        "sku": "SKU",
+        "price": "Prix",
+        "discount": "Remise",
+        "stock_status": "Statut du Stock",
+        "attributes": "Attributs",
+        "publish": "Publier",
+        "status": "Statut",
+        "store": "Magasin",
+        "brand": "Marque",
+        "label": "Étiquette",
+        "min_order_quantity": "Quantité Minimale de Commande",
+        "max_order_quantity": "Quantité Maximale de Commande",
+        "tags": "Étiquettes",
+        "pl_name": "Entrez le nom du produit",
+        "pl_start_writing": "Commencez à écrire ici..."
+    }
+}
