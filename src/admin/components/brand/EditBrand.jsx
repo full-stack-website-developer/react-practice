@@ -99,7 +99,7 @@ const EditBrand = () => {
         const result = edit(newBrand);
 
         if(result.success) {
-            navigateWithToaster(navigate, '/brands', result.message, 'success')
+            navigateWithToaster(navigate, '/admin/brands', result.message, 'success')
         }
 
     }

@@ -70,7 +70,7 @@ const AddBrand = () => {
         };
         const result = add(newBrand);
         if(result.success) {
-            navigateWithToaster(navigate, '/brands', result.message, 'success')
+            navigateWithToaster(navigate, '/admin/brands', result.message, 'success')
         }
       };
       
